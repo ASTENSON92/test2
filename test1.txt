@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 503A-C792
+
+ Directory of C:\Users\ALS.EXCHG1\Desktop\GitTraining
+
+10/04/2018  02:14 PM    <DIR>          .
+10/04/2018  02:14 PM    <DIR>          ..
+10/04/2018  02:14 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  948,363,911,168 bytes free
